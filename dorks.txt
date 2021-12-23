@@ -84,3 +84,4 @@ inurl: "responsible disclosure", "bug bounty", "bugbounty"
 Inurl responsible disclosure $50
 Inurl bug bounty $50
 Inurl bounty $50
+inurl:/s/ intext:responsible disclosure
