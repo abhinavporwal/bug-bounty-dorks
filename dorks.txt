@@ -86,3 +86,4 @@ Inurl bug bounty $50
 Inurl bounty $50
 inurl:/s/ intext:responsible disclosure
 inurl:/s/ intext:bugbounty
+inurl:"security.txt" intext:"$"
